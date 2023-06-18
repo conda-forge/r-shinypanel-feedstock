@@ -1,11 +1,11 @@
-About r-shinypanel
-==================
+About r-shinypanel-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-shinypanel-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=shinypanel
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-shinypanel-feedstock/blob/main/LICENSE.txt)
 
 Summary: Add shiny inputs with one or more inline buttons that grow and shrink with inputs. Also add tool tips to input buttons and styling and messages for input validation.
 
