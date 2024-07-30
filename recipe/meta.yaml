@@ -1,6 +1,5 @@
 {% set version = "0.1.5" %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-shinypanel
@@ -13,8 +12,7 @@ source:
   sha256: 3264a5a75a306881e6a1622413298d7f3cda3dc78f54446171925774bab97a00
 
 build:
-  merge_build_host: true  # [win]
-  number: 2
+  number: 3
   noarch: generic
   rpaths:
     - lib/R/lib/
